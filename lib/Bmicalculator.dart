@@ -20,7 +20,7 @@ class _BmiscreenState extends State<Bmiscreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'BMI CALCULATOR'
+          'bmi1'
         ),
         backgroundColor: Colors.black,
         
